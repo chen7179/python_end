@@ -2,7 +2,7 @@
 ## 自我介绍
 陈强，18级网新3班，福建人，有自学能力，有责任心了，会尽可能的把项目做好。本人也比较好交流，跟我合作一定不用担心存在交流上的问题。爱交朋友，喜欢羽毛球，打游戏，看电影。
 ## 个人技能
-* 掌握基础的网页设计，如[2018简历制作]（https://vividboy.gitee.io/resume/），[2018期末web制作]（https://vividboy.gitee.io/）
+* 掌握基础的网页设计，如：[2018简历制作](https://vividboy.gitee.io/resume/)，[2018期末web制作](https://vividboy.gitee.io/)
 * 对python也掌握了一些基本的语法，会使用列表、字典，以及flask编程制作web应用（[颜色选择器](http://chenqiang123.pythonanywhere.com/)) ,略懂mysql的操作。
 * 会做svg矢量图，可以负责抠一些logo啥的
 ## 目标
