@@ -1,8 +1,8 @@
-# Python最終項目
+# Python最终项目
 
-- [Github項目倉庫鏈接](https://github.com/freecodecampvividboy/python_end/tree/master/%E4%BA%A4%E4%BA%92%E5%8F%AF%E8%A7%86%E5%8C%96)
+- [Github项目数据库url](https://github.com/freecodecampvividboy/python_end/tree/master/%E4%BA%A4%E4%BA%92%E5%8F%AF%E8%A7%86%E5%8C%96)
 
-- [PythonAnyWhere部署鏈接](http://chenqiang123.pythonanywhere.com/)
+- [PythonAnyWhere部署url](http://chenqiang123.pythonanywhere.com/)
 
 ---------------------------------------------------------------------------
 
